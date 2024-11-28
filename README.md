@@ -1,66 +1,96 @@
-<br clear="both">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shivam;Backend+Developer;Python+Expert;Cloud+Engineer" alt="Typing SVG" />
+</div>
 
-<h2 align="left">Hi 👋! My name is Shivam and I'm a Software Developer from Delhi, working on Spheron </h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivamSphn&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/ShivamSphn?label=Followers&style=social" alt="followers" />
+</p>
 
-###
+## 🚀 About Me
+- 🐍 Python Backend Developer specializing in **FastAPI** and **microservices**
+- 🔭 Currently working on **Cloud Native Python Applications**
+- 🌱 Learning **System Design** and **Cloud Architecture**
+- 💬 Ask me about **Python, FastAPI, AWS, and DevOps**
+- 📫 Reach me at: **shivamban30@icloud.com**
+- ⚡ Fun fact: **I debug with print statements and coffee ☕**
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Backend Development</b></summary>
+<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Cloud & DevOps</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform"/>
+</p>
+</details>
+
+<details open>
+<summary><b>Tools & Testing</b></summary>
+<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana"/>
+</p>
+</details>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSphn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamSphn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSphn&show_icons=true&theme=tokyonight" alt="github-stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSphn&theme=tokyonight" alt="streak-stats" height="150"/>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="30" alt="podman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSphn&layout=compact&theme=tokyonight" alt="top-langs" height="150"/>
 </div>
 
-###
+## 🌟 Featured Projects
 
-<div align="left">
-  <a href="https://www.instagram.com/shivam._1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<div align="center">
+  <a href="https://github.com/ShivamSphn/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSphn&repo=project1&theme=tokyonight" />
   </a>
-  <a href="shivamban30@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://github.com/ShivamSphn/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamSphn&repo=project2&theme=tokyonight" />
   </a>
+</div>
+
+## 🤝 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shivam-bansal-daesira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
+  <a href="https://www.instagram.com/shivam._1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="mailto:shivamban30@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ShivamSphn/ShivamSphn/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shivamb25/Shivamb25/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello Cruel World!!</p>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shivamb25.Shivamb25&"  />
-
-###
+---
+<p align="center">⭐️ From [ShivamSphn](https://github.com/ShivamSphn)</p>
